@@ -8,8 +8,7 @@
 
 ### Example:
 
-##### Market basket analysis might tell a retailer that customers often purchase colgate toothpaste and brush together, 
-#so putting both items on promotion at the same time would not create a significant increase in revenue, while a promotion involving just one of the items would likely drive sales of the other.
+##### Market basket analysis might tell a retailer that customers often purchase colgate toothpaste and brush together, so putting both items on promotion at the same time would not create a significant increase in revenue, while a promotion involving just one of the items would likely drive sales of the other.
 
 
 ### Assosciation rules are produced using algorithms like :
